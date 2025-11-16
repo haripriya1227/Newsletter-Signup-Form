@@ -1,11 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Newsletter UI</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+      integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <div class="signup-container">
+      <div class="icon-container">
+        <i class="fas fa-envelope-open" aria-hidden="true"></i>
+      </div>
+
+      <div class="header">
+        <h1>Stay Updated</h1>
+        <h2>Join Our Newsletter</h2>
+      </div>
+
+      <div class="description">
+        <p>Subscribe to our newsletter for the latest updates and news</p>
+      </div>
+
+      <form>
+        <div class="form-group">
+          <i class="fas fa-envelope" aria-hidden="true"></i>
+          <input
+            type="email"
+            class="email-input"
+            placeholder="Enter your email"
+            required
+          />
+        </div>
+        <button type="submit" class="Subscribe-btn">
+          Subscribe <i class="fas fa-arrow-right" aria-hidden="true"></i>
+        </button>
+      </form>
+
+      <div class="features">
+        <h3>What you'll get</h3>
+        <ul class="feature-list">
+          <li class="feature-item">Exculisve design tips & industry news</li>
+          <li class="feature-item">Early access to news templates & tools</li>
+          <li class="feature-item">
+            A free ebook/icon set template pack upon signing up
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>
 </html>
