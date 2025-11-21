@@ -45,3 +45,23 @@ body {
     font-size: 18px;
     color: #666;
 }
+
+.description {
+    text-align: center;
+    color: #777;
+    margin-bottom: 25px;
+    line-height: 1.5;
+}
+
+.form-group {
+    margin-bottom: 25px;
+}
+
+.email-input {
+    width: 100%;
+    padding: 15px;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
