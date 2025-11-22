@@ -136,7 +136,7 @@ body {
 
 .feature-item::before {
       content: "✓";
-      color: #6c63ff;
+      color: #726afb;
       font-weight: bold;
       margin-right: 10px;
       background: #f0f0ff;
