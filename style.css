@@ -36,6 +36,11 @@ body {
     margin-bottom: 1.25rem;
 }
 
+.header {
+    text-align: center; 
+    margin-bottom: 16px;
+}
+
 .icon-container i {
     font-size: clamp(28px, 4.2vw, 40px);
     color: var(--accent);
@@ -46,6 +51,7 @@ body {
     color: var(--accent);
     font-size: clamp(20px, 3.2vw, 28px);
     margin-bottom: 8px;
+   
 }
 .header h2 {
     font-size: clamp(14px, 2.2vw, 18px);
