@@ -3,7 +3,7 @@
 A simple and beautiful Newsletter Signup Form made with HTML, CSS & JavaScript.
 Clean UI, responsive design, and perfect for beginners! 💜
 
-
+---
 
 🌈 Features
 
@@ -14,7 +14,7 @@ Clean UI, responsive design, and perfect for beginners! 💜
 🔐 Privacy message included
 🌟 Perfect for practice projects
 
-
+---
 
 🛠 Tech Used
 
@@ -23,14 +23,14 @@ Clean UI, responsive design, and perfect for beginners! 💜
 ⚡ JavaScript
 ⭐ Font Awesome Icons
 
-
+---
 
 🌐 Live Demo
 
 👉 [View Live Project]
 https://your-username.github.io/newsletter-signup-form/ ✨
 
-
+---
 
 ⭐ Support & Love
 
