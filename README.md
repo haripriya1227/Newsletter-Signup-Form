@@ -1,0 +1,40 @@
+📬✨ Newsletter Signup Form
+
+A simple and beautiful Newsletter Signup Form made with HTML, CSS & JavaScript.
+Clean UI, responsive design, and perfect for beginners! 💜
+
+
+
+🌈 Features
+
+🎨 Modern & clean design
+📱 Fully responsive
+📨 Email input with icon
+⚡ Simple JavaScript validation
+🔐 Privacy message included
+🌟 Perfect for practice projects
+
+
+
+🛠 Tech Used
+
+🧩 HTM
+🎀 CSS
+⚡ JavaScript
+⭐ Font Awesome Icons
+
+
+
+🌐 Live Demo
+
+👉 [View Live Project]
+https://your-username.github.io/newsletter-signup-form/ ✨
+
+
+
+⭐ Support & Love
+
+If you like this project, please ⭐ star this repo and support my work!
+Your encouragement means a lot 😊💗✨
+
+
