@@ -28,7 +28,7 @@ Clean UI, responsive design, and perfect for beginners! 💜
 🌐 Live Demo
 
 👉 [View Live Project]
-https://your-username.github.io/newsletter-signup-form/ ✨
+ https://haripriya1227.github.io/Newsletter-Signup-Form/
 
 ---
 
