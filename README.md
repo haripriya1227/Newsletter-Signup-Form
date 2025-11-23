@@ -18,7 +18,7 @@ Clean UI, responsive design, and perfect for beginners! 💜
 
 🛠 Tech Used
 
-* 🧩 HTM
+* 🧩 HTML
 * 🎀 CSS
 * ⚡ JavaScript
 * ⭐ Font Awesome Icons
@@ -34,7 +34,7 @@ https://your-username.github.io/newsletter-signup-form/ ✨
 
 ⭐ Support & Love
 
- If you like this project, please ⭐ star this repo and support my work!
+If you like this project, please ⭐ star this repo and support my work!
 * Your encouragement means a lot 😊💗✨
 
 
